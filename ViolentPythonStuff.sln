@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZipFileCracker", "ZipFileCracker\ZipFileCracker.pyproj", "{D1462105-14BC-4448-94D4-0CB943221D14}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PortScanner", "PortScanner\PortScanner.pyproj", "{E32E8E5D-29BC-4642-BC9B-8C4E4082327C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FTP", "FTP\FTP.pyproj", "{943F5916-A0D5-4ABA-9127-CF08BB55A142}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SSHBotNet", "SSHBotNet\SSHBotNet.pyproj", "{3144DC0E-710E-425A-9DD8-203E3AC8CF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1462105-14BC-4448-94D4-0CB943221D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1462105-14BC-4448-94D4-0CB943221D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1462105-14BC-4448-94D4-0CB943221D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1462105-14BC-4448-94D4-0CB943221D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32E8E5D-29BC-4642-BC9B-8C4E4082327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32E8E5D-29BC-4642-BC9B-8C4E4082327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32E8E5D-29BC-4642-BC9B-8C4E4082327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32E8E5D-29BC-4642-BC9B-8C4E4082327C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943F5916-A0D5-4ABA-9127-CF08BB55A142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943F5916-A0D5-4ABA-9127-CF08BB55A142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943F5916-A0D5-4ABA-9127-CF08BB55A142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943F5916-A0D5-4ABA-9127-CF08BB55A142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3144DC0E-710E-425A-9DD8-203E3AC8CF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3144DC0E-710E-425A-9DD8-203E3AC8CF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3144DC0E-710E-425A-9DD8-203E3AC8CF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3144DC0E-710E-425A-9DD8-203E3AC8CF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
